@@ -1,0 +1,2 @@
+include ':signaturelibrary'
+rootProject.name='LibrarySignature'
